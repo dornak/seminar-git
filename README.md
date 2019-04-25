@@ -1,34 +1,3 @@
-
-# Seminář Git a GitHub  CCCCCCC
-
-
-
-(SPŠE 25. 4. 2019) Aaajajajaj
-
-
-[Git]: https://cs.wikipedia.org/wiki/Git
-[GitHub]: https://cs.wikipedia.org/wiki/GitHub
-[Pro Git]: https://knihy.nic.cz/#ProGit
-
-
-## Co to je?
-
-* [Git][]
-* [GitHub][]
-
-Git je [OpenSource](https://cs.wikipedia.org/wiki/Otevřený_software)
-software a je zcela zdarma.
-
-GitHub můžete používat zdarma. Platíte až za soukromé repositáře a další 
-vymoženosti. Studenti (a učitelé) mají ale k dipozici celý balíček služeb zdarma.
-Více najdete na <http://education.github.com>.
-
-Ke každému projektu patří v webové stránky. I ty můžete hostovat na GitHubu.
-Více na <https://pages.github.com/.>
-
-
-Kráva Micro$oft!!! 
-
 ## Jak se to naučím?
 
 
